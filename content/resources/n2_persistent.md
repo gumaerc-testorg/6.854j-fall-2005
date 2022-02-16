@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information on persistent trees.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-854j-advanced-algorithms-fall-2005/51915278830850b77b7f00685299b31c_n2_persistent.pdf
+file: /media/courses/6-854j-advanced-algorithms-fall-2005/51915278830850b77b7f00685299b31c_n2_persistent.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: n2_persistent.pdf
 uid: 51915278-8308-50b7-7b7f-00685299b31c

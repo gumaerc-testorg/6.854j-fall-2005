@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on Structure of LP solutions, the
   dual of a linear program, and gravitational model.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-854j-advanced-algorithms-fall-2005/99eac3e02c1e1c317f20ef3cad4f6a28_dualitynotes.pdf
+file: /media/courses/6-854j-advanced-algorithms-fall-2005/99eac3e02c1e1c317f20ef3cad4f6a28_dualitynotes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: dualitynotes.pdf
 uid: 99eac3e0-2c1e-1c31-7f20-ef3cad4f6a28

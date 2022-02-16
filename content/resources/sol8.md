@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-854j-advanced-algorithms-fall-2005/65f241f29a8c2bb244b17fcfb0bf4dce_sol8.pdf
+file: /media/courses/6-854j-advanced-algorithms-fall-2005/65f241f29a8c2bb244b17fcfb0bf4dce_sol8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: sol8.pdf
 uid: 65f241f2-9a8c-2bb2-44b1-7fcfb0bf4dce
