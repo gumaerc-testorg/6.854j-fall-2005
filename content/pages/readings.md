@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The reading section gives the list of the lectures, papers and textbook
+  used in the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

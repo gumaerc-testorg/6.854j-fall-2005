@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The calendar section gives the lectuer numbers, topics and key dates
+  of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The project section gives the different ways of approaching a project
+  and some frequently asked questions on the same.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
