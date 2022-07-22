@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus section gives the course description, course objectives,
+  prerequisites, textbook, student grading and scribing, assignments, exams, project,
+  collaboration policy, and grading of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 04e43244-9358-0cc1-7a35-74a2b6151c59
 ---
@@ -76,12 +81,12 @@ Our hope is that this class will confer:
 Prerequisites
 -------------
 
-We assume that the reader has had an undergraduate class in Algorithms ([6.046J](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005)) and some exposure to probability ([6.041](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/) or [6.042J](/courses/6-042j-mathematics-for-computer-science-spring-2015/) are more than sufficient). Complexity Theory ([6.045J](/courses/6-045j-automata-computability-and-complexity-spring-2011)) is a bonus.
+We assume that the reader has had an undergraduate class in Algorithms ([6.046J](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005)) and some exposure to probability ([6.041](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006) or [6.042J](/courses/6-042j-mathematics-for-computer-science-spring-2015) are more than sufficient). Complexity Theory ([6.045J](/courses/6-045j-automata-computability-and-complexity-spring-2011)) is a bonus.
 
 Textbook
 --------
 
-There are no textbooks covering a majority portion of the material we will be studying in this class. Roughly 20% of the material is covered in the lecture notes from another version of this course, by Prof. Michel Goemans. For a list of other readings, see the [readings]({{< baseurl >}}/pages/readings) section.
+There are no textbooks covering a majority portion of the material we will be studying in this class. Roughly 20% of the material is covered in the lecture notes from another version of this course, by Prof. Michel Goemans. For a list of other readings, see the {{% resource_link 28c9b314-7956-f446-de35-8163e082fd34 "readings" %}} section.
 
 Student Grading and Scribing
 ----------------------------

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The lecture notes section gives the scribe notes, other notes of tis
+  session of the course and lecture notes of the 2003 session of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 801fa253-f5eb-de84-048e-e39c0b02cd11
 ---
@@ -38,11 +43,11 @@ Course Introduction
 Fibonacci Heaps
 {{< tdclose >}}
 {{< tdopen >}}
-Fibonacci Heaps ([PDF]({{< baseurl >}}/resources/fibheaps)) (Courtesy of David Andersen, Ioana Dumitriu, John Dunagan, and Akshay Patil.)
+Fibonacci Heaps ({{% resource_link 13851ef2-7b7b-cf8c-bcf9-1862f0f53dec "PDF" %}}) (Courtesy of David Andersen, Ioana Dumitriu, John Dunagan, and Akshay Patil.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/n0_intro))  
-([PDF 2]({{< baseurl >}}/resources/n1_fibonacci))
+({{% resource_link e70a64f9-1662-ddb6-bf7a-a27daf7164cd "PDF 1" %}})  
+({{% resource_link 2df100ea-ca38-1b66-70a7-ad3f1d1da90e "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,10 +60,10 @@ MST
 Persistent Data Structures
 {{< tdclose >}}
 {{< tdopen >}}
-Persistent Data Structures ([PDF]({{< baseurl >}}/resources/persistent)) (Courtesy of Sommer Gentry and Eddie Kohler.)
+Persistent Data Structures ({{% resource_link f990ad62-70a5-16d3-c65e-9a5f08ace250 "PDF" %}}) (Courtesy of Sommer Gentry and Eddie Kohler.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n2_persistent))
+({{% resource_link 51915278-8308-50b7-7b7f-00685299b31c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,10 +75,10 @@ Persistent Data Structures ([PDF]({{< baseurl >}}/resources/persistent)) (Courte
 Splay Trees
 {{< tdclose >}}
 {{< tdopen >}}
-Splay Trees ([PDF]({{< baseurl >}}/resources/dzhang_splaytree)) (Courtesy of Xin Zhang.)
+Splay Trees ({{% resource_link ed7269b2-1750-3aab-30e0-dce658d459dd "PDF" %}}) (Courtesy of Xin Zhang.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n3_splay))
+({{% resource_link cfaa2099-f5ed-b14d-32d9-3998efd87fc1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,10 +92,10 @@ Suffix Trees
 Tries
 {{< tdclose >}}
 {{< tdopen >}}
-Suffix Trees and Fibonacci Heaps ([PDF]({{< baseurl >}}/resources/suffix))
+Suffix Trees and Fibonacci Heaps ({{% resource_link a0f8c638-7d87-163e-a208-4cd3c3857f96 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n4_suffix))
+({{% resource_link 23b5966a-c19c-82dd-2be9-dafe2757dfc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,10 +125,10 @@ Dijkstra's Algorithm
 Van Emde Boas Queues
 {{< tdclose >}}
 {{< tdopen >}}
-Van Emde Boas Queues (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/veb)) (Courtesy of Abhi Shelat, Andrew Menard, and Akshay Patil.)
+Van Emde Boas Queues ({{% resource_link d9706972-f8a4-e642-1b78-0b153974e8c3 "PDF" %}}) (Courtesy of Abhi Shelat, Andrew Menard, and Akshay Patil.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n5_bucket))
+({{% resource_link 27f3ffc5-26ca-6298-e147-2dee57f488b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +144,7 @@ Hashing
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n6_hashing))
+({{% resource_link ff967306-df79-eaa4-e7e6-d43b3af0e12a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,10 +157,10 @@ Hashing
 Network Flows
 {{< tdclose >}}
 {{< tdopen >}}
-Maximum Flows ([PDF]({{< baseurl >}}/resources/max_flow_dff)) (Courtesy of Alexandr Andoni.)
+Maximum Flows ({{% resource_link 8346e77d-563c-80b0-ae71-4a21bc9a4541 "PDF" %}}) (Courtesy of Alexandr Andoni.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n7_flow))
+({{% resource_link bb32a9eb-6f3f-00f8-acc3-fda9a9fd715d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,10 +220,10 @@ Blocking Flows (cont.)
 Min-Cost Flows
 {{< tdclose >}}
 {{< tdopen >}}
-Min-Cost Flow Algorithms ([PDF]({{< baseurl >}}/resources/min_cost_flow)) (Courtesy of Wendy Chang.)
+Min-Cost Flow Algorithms ({{% resource_link 6f0c3416-0e37-76c5-4c0f-7f0cd01fa621 "PDF" %}}) (Courtesy of Wendy Chang.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n10_mincostflow))
+({{% resource_link 67c73f18-3add-39a1-8b86-47748e8321f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +239,7 @@ Linear Programming
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n10_mincostflow))
+({{% resource_link 67c73f18-3add-39a1-8b86-47748e8321f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +253,7 @@ Structure of Optima
 Weak Duality
 {{< tdclose >}}
 {{< tdopen >}}
-Duality ([PDF]({{< baseurl >}}/resources/dualitynotes)) (Courtesy of Jay-Kumar Sundararajan.)
+Duality ({{% resource_link 99eac3e0-2c1e-1c31-7f20-ef3cad4f6a28 "PDF" %}}) (Courtesy of Jay-Kumar Sundararajan.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -264,7 +269,7 @@ Linear Programming (cont.)
 Strong Duality
 {{< tdclose >}}
 {{< tdopen >}}
-Duality([PDF]({{< baseurl >}}/resources/dualitynotes)) (Courtesy of Jay-Kumar Sundararajan.)
+Duality({{% resource_link 99eac3e0-2c1e-1c31-7f20-ef3cad4f6a28 "PDF" %}}) (Courtesy of Jay-Kumar Sundararajan.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -281,7 +286,7 @@ Complementary Slackness
 Algorithms: Simplex, Ellipsoid
 {{< tdclose >}}
 {{< tdopen >}}
-Duality ([PDF]({{< baseurl >}}/resources/dualitynotes)) (Courtesy of Jay-Kumar Sundararajan.)
+Duality ({{% resource_link 99eac3e0-2c1e-1c31-7f20-ef3cad4f6a28 "PDF" %}}) (Courtesy of Jay-Kumar Sundararajan.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -316,7 +321,7 @@ NP-hard problems
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n15_approx))
+({{% resource_link a9fb7940-75c9-11cc-fd15-f029bcb73afb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -365,7 +370,7 @@ Kernelization
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n22_fixedparam))
+({{% resource_link 88360c5f-0328-87ea-2b11-cee2428893fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -378,10 +383,10 @@ Online Algorithms (Ski Rental, Load Balancing, Paging)
 {{< tdclose >}}
 {{< tdopen >}}
 Lower Bounds for Competitive Ratios of Randomized  
-Online Algorithms ([PDF]({{< baseurl >}}/resources/ragnarok)) (Courtesy of Chun-Chieh Lin.)
+Online Algorithms ({{% resource_link 40014ee2-c8d9-e3a8-a188-6622eb64569f "PDF" %}}) (Courtesy of Chun-Chieh Lin.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n23online))
+({{% resource_link dfa4e60d-4e98-6fbb-cf3b-1bb0b0dc7e27 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -394,7 +399,7 @@ Randomized Online Algorithms (Adversaries, Fiat's Marking Algorithm, Potential F
 {{< tdclose >}}
 {{< tdopen >}}
 Lower Bounds for Competitive Ratios of Randomized  
-Online Algorithms ([PDF]({{< baseurl >}}/resources/ragnarok)) (Courtesy of Chun-Chieh Lin.)
+Online Algorithms ({{% resource_link 40014ee2-c8d9-e3a8-a188-6622eb64569f "PDF" %}}) (Courtesy of Chun-Chieh Lin.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -426,10 +431,10 @@ Computational Geometry Introduction (Orthogonal Range Search)
 Sweep Algorithms (Convex Hull, Segment Intersection, Voronoi Diagrams)
 {{< tdclose >}}
 {{< tdopen >}}
-Sweep Line ([PDF]({{< baseurl >}}/resources/rasmu_sweepline)) (Courtesy of Matt Rasmussen.)
+Sweep Line ({{% resource_link da856076-4d93-c9a6-9a23-3e1847352699 "PDF" %}}) (Courtesy of Matt Rasmussen.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n25_geometry))
+({{% resource_link 778dce5a-de8b-5f0d-79d5-a5d79012df90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -462,7 +467,7 @@ Linear Programming in Fixed Dimension
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n28_external))
+({{% resource_link c122de88-45e3-5254-e42f-2e832be76dd5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -509,7 +514,7 @@ Streaming Model
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/n32parallel))
+({{% resource_link 0a25a8f2-b9f6-724c-ebda-6917a3f50c97 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -543,7 +548,7 @@ Course Introduction
 Fibonacci Heaps
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec01_1999)) (Courtesy of David Andersen, Ioana Dumitriu, John Dunagan, and Akshay Patil.)
+({{% resource_link c4629413-fce0-c30c-ec02-05594864b672 "PDF" %}}) (Courtesy of David Andersen, Ioana Dumitriu, John Dunagan, and Akshay Patil.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -556,8 +561,8 @@ Persistent Data Structures
 Suffix Trees
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/lec05_1999)) (Courtesy of Sommer Gentry and Eddie Kohler.)  
-([PDF 2]({{< baseurl >}}/resources/lec01_2003)) (Courtesy of Jiawen Chen.)
+({{% resource_link 2165d830-10dc-7633-bce3-97ea75f889f9 "PDF 1" %}}) (Courtesy of Sommer Gentry and Eddie Kohler.)  
+({{% resource_link 912cf9c3-2c91-d4d0-4586-ef16c9c5c1cd "PDF 2" %}}) (Courtesy of Jiawen Chen.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -569,7 +574,7 @@ Suffix Trees
 Suffix Trees (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec02_2003))
+({{% resource_link 6aece52d-849d-4a77-5df0-9ac3c199f835 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -593,7 +598,7 @@ Treaps
 Splay Trees
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec13_2001)) (Courtesy of Naveen Sunkavally.)
+({{% resource_link 69d0d136-a2c0-dc94-7f90-7dd1db40f7a3 "PDF" %}}) (Courtesy of Naveen Sunkavally.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -619,8 +624,8 @@ Fingerprinting (cont.)
 Max Flows
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/lec01_2003)) (Courtesy of Jiawen Chen.)  
-([PDF 2]({{< baseurl >}}/resources/lec06_2003)) (Courtesy of Alexandr Andoni.)
+({{% resource_link 912cf9c3-2c91-d4d0-4586-ef16c9c5c1cd "PDF 1" %}}) (Courtesy of Jiawen Chen.)  
+({{% resource_link 666d6c5b-9e1b-9282-0431-d6fba9933b9c "PDF 2" %}}) (Courtesy of Alexandr Andoni.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -682,7 +687,7 @@ Min Cost Flow Algorithms
 Linear Programming
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/lec14_1999)) (Courtesy of Brian Dean and John Jannotti.)
+({{% resource_link b312c6aa-208f-c322-bab7-654e55c0ab01 "PDF 1" %}}) (Courtesy of Brian Dean and John Jannotti.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -696,7 +701,7 @@ Farkas Lemma
 Duality
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec10_2003)) (Courtesy of Vinod Vaikuntanathan.)
+({{% resource_link 5d5d7b33-32cd-8a00-1a37-8c5d15c15b6d "PDF" %}}) (Courtesy of Vinod Vaikuntanathan.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -708,7 +713,7 @@ Duality
 Goldberg-Tarjan Min-cost Flow
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec11_2001)) (Courtesy of Mohammad Hajiaghayi and Vahab Mirrokni.)
+({{% resource_link c1c43cf0-b558-27e1-4603-2e98ea0c1d75 "PDF" %}}) (Courtesy of Mohammad Hajiaghayi and Vahab Mirrokni.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -746,7 +751,7 @@ LP: Interior Points Algorithm
 Approximation Algorithms: Constant, Relative Approximation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec12_2003)) (Courtesy of Jason Eisenberg.)
+({{% resource_link 62be6c22-9b6c-f063-b0ce-5c3e329e2192 "PDF" %}}) (Courtesy of Jason Eisenberg.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -770,7 +775,7 @@ Approximation Algorithm: PAS, FPAS, Rounding, Enumeration
 Approximation Algorithm: Rounding, Relaxation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec14_2003)) (Courtesy of Sachin Katti.)
+({{% resource_link 98ab0c51-6476-df5b-54c7-be303cf573fd "PDF" %}}) (Courtesy of Sachin Katti.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -782,7 +787,7 @@ Approximation Algorithm: Rounding, Relaxation
 Approximation Algorithm: LP Relaxation, Randomized Rounding
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec15_2003)) (Courtesy of Shannon McDonald.)
+({{% resource_link e81b16d2-fe27-1ed6-86da-6d26614bf1dd "PDF" %}}) (Courtesy of Shannon McDonald.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -794,7 +799,7 @@ Approximation Algorithm: LP Relaxation, Randomized Rounding
 Fixed Parameter Tractability
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec15_2003)) (Courtesy of Shannon McDonald.)
+({{% resource_link e81b16d2-fe27-1ed6-86da-6d26614bf1dd "PDF" %}}) (Courtesy of Shannon McDonald.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -844,7 +849,7 @@ Lower Bounds for Randomized Online Algorithms
 Geometry: Range Search
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec18_2003)) (Courtesy of Nick Harvey.)
+({{% resource_link cc98f0f1-6a14-54a3-37bf-b9a1f8f6136c "PDF" %}}) (Courtesy of Nick Harvey.)
 {{< tdclose >}}
 
 {{< trclose >}}
