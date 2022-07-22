@@ -6,6 +6,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/f2678f0df8221ca78afee26c872b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps1.pdf
 uid: f2678f0d-f822-1ca7-8afe-e26c872b7e8b
 ---
 This resource contains questions on fibonacci heaps, least common ancestor and tradeoff in heap operations.
-

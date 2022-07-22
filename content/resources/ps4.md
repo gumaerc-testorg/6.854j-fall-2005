@@ -6,6 +6,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/2001006a9e57cc48b83c91a4419e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps4.pdf
 uid: 2001006a-9e57-cc48-b83c-91a4419eb02b
 ---
 This resource contains questions on flows, scaling?algorithm?for?shortest?paths, and augmenting?paths.
-

@@ -6,6 +6,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/ee789705b0de79f591e6dcb98534
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: algorithms_lec13.pdf
 uid: ee789705-b0de-79f5-91e6-dcb98534d535
 ---
 This resource contains information on max-cut, max-sat, combined algorithm, and set cover.
-

@@ -5,6 +5,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/27f3ffc526ca6298e1472dee57f4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: n5_bucket.pdf
 uid: 27f3ffc5-26ca-6298-e147-2dee57f488b9
 ---
 This resource contains information on buckets and VEB.
-

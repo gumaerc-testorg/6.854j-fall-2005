@@ -5,6 +5,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/23b5966ac19c82dd2be9dafe2757
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

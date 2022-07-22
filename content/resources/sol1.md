@@ -6,6 +6,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/30f522ef51323a86b03880cae083
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sol1.pdf
 uid: 30f522ef-5132-3a86-b038-80cae083cb2b
 ---
 This resource contains solutions of Fibonacci?heap, linked?list, and offline?algorithm.
-

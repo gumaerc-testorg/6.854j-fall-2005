@@ -5,6 +5,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/a9fb794075c911ccfd15f029bcb7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: n15_approx.pdf
 uid: a9fb7940-75c9-11cc-fd15-f029bcb73afb
 ---
 This file contains notes for approximation algorithms.
-

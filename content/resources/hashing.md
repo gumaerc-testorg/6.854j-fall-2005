@@ -5,6 +5,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/c0907f937515c1c6ce95775d6f3f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hashing.pdf
 uid: c0907f93-7515-c1c6-ce95-775d6f3f4adb
 ---
 This resource contains ionformation on 2-level hashing and problem formulation.
-

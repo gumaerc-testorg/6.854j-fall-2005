@@ -5,6 +5,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/16fa82527ce47367fa455728ba87
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

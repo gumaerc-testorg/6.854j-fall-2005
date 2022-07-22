@@ -6,6 +6,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/64b7a30a26df0b291e480ea4055a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: provinescribe.pdf
 uid: 64b7a30a-26df-0b29-1e48-0ea4055aa2a3
 ---
 This resource contains information on fixed-parameter?tractability?of?SAT, competitive?analysis, online?load?balancing, and improvements?to?Graham?s?algorithm.
-

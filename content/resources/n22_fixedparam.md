@@ -5,6 +5,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/88360c5f032887ea2b11cee24288
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: n22_fixedparam.pdf
 uid: 88360c5f-0328-87ea-2b11-cee2428893fb
 ---
 This file contains notes on treewidth.
-

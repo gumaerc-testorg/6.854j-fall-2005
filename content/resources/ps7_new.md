@@ -6,6 +6,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/2458132f37811a7c2bb32e1f6007
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps7_new.pdf
 uid: 2458132f-3781-1a7c-2bb3-2e1f6007d97b
 ---
 This resource contains questions on polyhedra, maximumflow, minimum?mean?cycle, and LP?optimization.
-

@@ -5,6 +5,7 @@ file: /courses/6-854j-advanced-algorithms-fall-2005/da8560764d93c9a69a233e184735
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rasmu_sweepline.pdf
 uid: da856076-4d93-c9a6-9a23-3e1847352699
 ---
 This resource contains information on convex hull and segment intersections.
-
