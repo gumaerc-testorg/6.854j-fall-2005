@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains questions on van?Emde?Boas?priority?queue, Fibonacci?heaps,
   and perfect?hashing.
 file: /courses/6-854j-advanced-algorithms-fall-2005/f0ea195b0f1108c7cbe32c84a4fd6310_ps3.pdf
+file_size: 79673
 file_type: application/pdf
 learning_resource_types:
 - Assignments

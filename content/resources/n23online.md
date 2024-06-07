@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-854j-advanced-algorithms-fall-2005/dfa4e60d4e986fbbcf3b1bb0b0dc7e27_n23online.pdf
+file_size: 98269
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

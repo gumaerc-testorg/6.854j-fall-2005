@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on capacitated graphs, costs in flow
   networks, optimality criteria and algorithms.
 file: /courses/6-854j-advanced-algorithms-fall-2005/c120c38a5decb83cc2e5bba395cf3c02_blockingflows2.pdf
+file_size: 145572
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

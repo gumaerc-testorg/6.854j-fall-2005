@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on max-cut, max-sat, combined algorithm,
   and set cover.
 file: /courses/6-854j-advanced-algorithms-fall-2005/ee789705b0de79f591e6dcb98534d535_algorithms_lec13.pdf
+file_size: 119286
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

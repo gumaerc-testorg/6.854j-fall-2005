@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains questions on blocking?flows and integer?flow.
 file: /courses/6-854j-advanced-algorithms-fall-2005/e800cd3f9150cc904a9654e6473b0002_ps5.pdf
+file_size: 59837
 file_type: application/pdf
 learning_resource_types:
 - Assignments
