@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-854j-advanced-algorithms-fall-2005/04f30474cf9326def6bf71023d4af62c_sol10.pdf
+file_size: 97787
 file_type: application/pdf
 learning_resource_types:
 - Assignments
