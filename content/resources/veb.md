@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on Van Emde Boas queues.
 file: /courses/6-854j-advanced-algorithms-fall-2005/d9706972f8a4e6421b780b153974e8c3_veb.pdf
+file_size: 84747
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
