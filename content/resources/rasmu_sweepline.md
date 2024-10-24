@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on convex hull and segment intersections.
-file: /courses/6-854j-advanced-algorithms-fall-2005/da8560764d93c9a69a233e1847352699_rasmu_sweepline.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/da8560764d93c9a69a233e1847352699_rasmu_sweepline.pdf
 file_size: 72881
 file_type: application/pdf
 learning_resource_types:

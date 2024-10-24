@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on hashing and perfect hash families.
-file: /courses/6-854j-advanced-algorithms-fall-2005/ff967306df79eaa4e7e6d43b3af0e12a_n6_hashing.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/ff967306df79eaa4e7e6d43b3af0e12a_n6_hashing.pdf
 file_size: 93010
 file_type: application/pdf
 learning_resource_types:

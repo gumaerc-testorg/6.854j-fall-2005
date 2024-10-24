@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on persistent trees.
-file: /courses/6-854j-advanced-algorithms-fall-2005/51915278830850b77b7f00685299b31c_n2_persistent.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/51915278830850b77b7f00685299b31c_n2_persistent.pdf
 file_size: 55692
 file_type: application/pdf
 learning_resource_types:
