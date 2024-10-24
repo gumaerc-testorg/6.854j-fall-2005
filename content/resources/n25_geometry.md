@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes on geometry.
-file: /courses/6-854j-advanced-algorithms-fall-2005/778dce5ade8b5f0d79d5a5d79012df90_n25_geometry.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/778dce5ade8b5f0d79d5a5d79012df90_n25_geometry.pdf
 file_size: 147111
 file_type: application/pdf
 learning_resource_types:

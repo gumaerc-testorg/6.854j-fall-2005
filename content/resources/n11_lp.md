@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for blocking flows, minimum cost maximum flow,
   minimum cost circulation.
-file: /courses/6-854j-advanced-algorithms-fall-2005/d974aef980258f2a796171e96717d646_n11_lp.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/d974aef980258f2a796171e96717d646_n11_lp.pdf
 file_size: 230317
 file_type: application/pdf
 learning_resource_types:
