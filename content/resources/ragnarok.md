@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on game?theory?analysis and online?algorithm.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/40014ee2c8d9e3a8a1886622eb64569f_ragnarok.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/40014ee2c8d9e3a8a1886622eb64569f_ragnarok.pdf
 file_size: 93184
 file_type: application/pdf
 learning_resource_types:

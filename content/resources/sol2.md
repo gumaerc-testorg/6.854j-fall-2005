@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the solutions on splay tree.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/214bdd43f45b43c479c44917911c9d8b_sol2.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/214bdd43f45b43c479c44917911c9d8b_sol2.pdf
 file_size: 112029
 file_type: application/pdf
 learning_resource_types:

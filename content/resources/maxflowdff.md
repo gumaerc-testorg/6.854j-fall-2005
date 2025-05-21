@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the maximum flow problem, flow
   decomposition and cuts, max-flow min-cut theorem and scaling algorithm.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/79ce219a0304041e9228499871075d66_maxflowdff.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/79ce219a0304041e9228499871075d66_maxflowdff.pdf
 file_size: 151040
 file_type: application/pdf
 learning_resource_types:

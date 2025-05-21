@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on Structure of LP solutions, the
   dual of a linear program, and gravitational model.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/99eac3e02c1e1c317f20ef3cad4f6a28_dualitynotes.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/99eac3e02c1e1c317f20ef3cad4f6a28_dualitynotes.pdf
 file_size: 130820
 file_type: application/pdf
 learning_resource_types:

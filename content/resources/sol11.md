@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/d9b584dcddaff0f108c8404ac5ab5f18_sol11.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/d9b584dcddaff0f108c8404ac5ab5f18_sol11.pdf
 file_size: 100602
 file_type: application/pdf
 learning_resource_types:

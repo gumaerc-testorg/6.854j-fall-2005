@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on fixed-parameter?tractability?of?SAT,
   competitive?analysis, online?load?balancing, and improvements?to?Graham?s?algorithm.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/64b7a30a26df0b291e480ea4055aa2a3_provinescribe.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/64b7a30a26df0b291e480ea4055aa2a3_provinescribe.pdf
 file_size: 116642
 file_type: application/pdf
 learning_resource_types:

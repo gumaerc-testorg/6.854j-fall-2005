@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on relative?approximation?algorithms,
   polynomial?approximation?schemes, and fully?polynomial?approximation?schemes.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/cb60441c4d550c83cb6064f2c6a0291d_sidenko.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/cb60441c4d550c83cb6064f2c6a0291d_sidenko.pdf
 file_size: 126015
 file_type: application/pdf
 learning_resource_types:
