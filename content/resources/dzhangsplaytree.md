@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on analysis of splay steps and analysis
   of splay tree operations.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/a90c1b95b1987d01ae9f4fbeeeb91a27_dzhangsplaytree.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/a90c1b95b1987d01ae9f4fbeeeb91a27_dzhangsplaytree.pdf
 file_size: 90214
 file_type: application/pdf
 learning_resource_types:

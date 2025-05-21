@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions on vEB?queue, Dijkstra?s?algorithm,
   and hash?functions.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/b3c79e801989276b3df906a44454b932_sol3.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/b3c79e801989276b3df906a44454b932_sol3.pdf
 file_size: 103705
 file_type: application/pdf
 learning_resource_types:

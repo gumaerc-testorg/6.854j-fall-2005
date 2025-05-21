@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on why to study this course and varieties
   of algorithms.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/e70a64f91662ddb6bf7aa27daf7164cd_n0_intro.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/e70a64f91662ddb6bf7aa27daf7164cd_n0_intro.pdf
 file_size: 26732
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for external memory.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/c122de8845e35254e42f2e832be76dd5_n28_external.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/c122de8845e35254e42f2e832be76dd5_n28_external.pdf
 file_size: 64443
 file_type: application/pdf
 learning_resource_types:
