@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information on shortest augmenting paths: unit
   capacity networks, MCF scaling by capacity, and MCF scaling by cost.'
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/6f0c34160e3776c54c0f7f0cd01fa621_min_cost_flow.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/6f0c34160e3776c54c0f7f0cd01fa621_min_cost_flow.pdf
 file_size: 64776
 file_type: application/pdf
 learning_resource_types:

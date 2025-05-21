@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on buckets and VEB.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/27f3ffc526ca6298e1472dee57f488b9_n5_bucket.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/27f3ffc526ca6298e1472dee57f488b9_n5_bucket.pdf
 file_size: 72912
 file_type: application/pdf
 learning_resource_types:

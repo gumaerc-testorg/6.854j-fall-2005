@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on paging, LRU is k-competitive ,
   and finance.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/905ba402197e76f971d59c7210e93b14_tushara_lec20.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/905ba402197e76f971d59c7210e93b14_tushara_lec20.pdf
 file_size: 71371
 file_type: application/pdf
 learning_resource_types:

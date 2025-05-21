@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains questions on mincost?flow and linear?program.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/4ba5a5bddb175b1042d50341d1a05a19_ps6.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/4ba5a5bddb175b1042d50341d1a05a19_ps6.pdf
 file_size: 67246
 file_type: application/pdf
 learning_resource_types:

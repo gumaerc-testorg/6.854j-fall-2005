@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on heaps, and minimum spanning tree.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/2df100eaca381b6670a7ad3f1d1da90e_n1_fibonacci.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/2df100eaca381b6670a7ad3f1d1da90e_n1_fibonacci.pdf
 file_size: 81860
 file_type: application/pdf
 learning_resource_types:

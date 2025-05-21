@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for approximation algorithms.
-file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/a9fb794075c911ccfd15f029bcb73afb_n15_approx.pdf
+file: /courses/6-854j-advanced-algorithms-fall-2005/a9fb794075c911ccfd15f029bcb73afb_n15_approx.pdf
 file_size: 121296
 file_type: application/pdf
 learning_resource_types:
