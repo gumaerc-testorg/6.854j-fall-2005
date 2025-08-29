@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on suffix trees.
-file: /courses/6-854j-advanced-algorithms-fall-2005/a0f8c6387d87163ea2084cd3c3857f96_suffix.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/a0f8c6387d87163ea2084cd3c3857f96_suffix.pdf
 file_size: 76464
 file_type: application/pdf
 learning_resource_types:

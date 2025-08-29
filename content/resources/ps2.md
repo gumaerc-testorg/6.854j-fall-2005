@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions on data?structure, access?time?in?splay?trees,
   and how to construct a suffix tree on multiple texts.
-file: /courses/6-854j-advanced-algorithms-fall-2005/1340dac2e85a5ce6f4449a4084673992_ps2.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/1340dac2e85a5ce6f4449a4084673992_ps2.pdf
 file_size: 91197
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains ionformation on 2-level hashing and problem formulation.
-file: /courses/6-854j-advanced-algorithms-fall-2005/c0907f937515c1c6ce95775d6f3f4adb_hashing.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/c0907f937515c1c6ce95775d6f3f4adb_hashing.pdf
 file_size: 89473
 file_type: application/pdf
 learning_resource_types:
