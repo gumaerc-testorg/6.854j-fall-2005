@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on geometry, separating hyperplanes
   and structure of optima.
-file: /courses/6-854j-advanced-algorithms-fall-2005/04962b779dbf0071aa9bec9e192ff867_scribe9.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/04962b779dbf0071aa9bec9e192ff867_scribe9.pdf
 file_size: 106038
 file_type: application/pdf
 learning_resource_types:

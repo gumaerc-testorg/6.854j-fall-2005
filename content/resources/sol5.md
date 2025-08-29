@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions on admissible graph, max flow and matrix.
-file: /courses/6-854j-advanced-algorithms-fall-2005/b729dada67efa6e5494882599abe1025_sol5.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/b729dada67efa6e5494882599abe1025_sol5.pdf
 file_size: 75771
 file_type: application/pdf
 learning_resource_types:

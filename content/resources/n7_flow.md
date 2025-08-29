@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for maximum flow.
-file: /courses/6-854j-advanced-algorithms-fall-2005/bb32a9eb6f3f00f8acc3fda9a9fd715d_n7_flow.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/bb32a9eb6f3f00f8acc3fda9a9fd715d_n7_flow.pdf
 file_size: 187597
 file_type: application/pdf
 learning_resource_types:
