@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on fixed parameter tractability, bounded
   search tree method, kernelisation, and treewidth.
-file: /courses/6-854j-advanced-algorithms-fall-2005/d8a8d8a91186a724e9d19875657288b8_lecture14.pdf
+file: /ol-ocw-studio-app/courses/6-854j-advanced-algorithms-fall-2005/d8a8d8a91186a724e9d19875657288b8_lecture14.pdf
 file_size: 133965
 file_type: application/pdf
 learning_resource_types:
