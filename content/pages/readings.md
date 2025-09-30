@@ -13,7 +13,7 @@ There are no textbooks covering a majority portion of the material we will be st
 
 The following papers are related to the second lecture:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/introduction-algorithms-second-edition) Cormen, Leiserson, Rivest, and Stein. [_Introduction to Algorithms_](https://mitpress.mit.edu/books/introduction-algorithms-second-edition). 2nd ed. Cambridge, MA: [MIT Press](https://mitpress.mit.edu/books/introduction-algorithms-second-edition), 2001. ISBN: 0262032937.
+{{% resource_link "d218d6d5-7d3c-4a68-993b-7523084df6f8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Leiserson, Rivest, and Stein. {{% resource_link "d218d6d5-7d3c-4a68-993b-7523084df6f8" "_Introduction to Algorithms_" %}}. 2nd ed. Cambridge, MA: {{% resource_link "d218d6d5-7d3c-4a68-993b-7523084df6f8" "MIT Press" %}}, 2001. ISBN: 0262032937.
 
 Ahuja, Magnanti, and Orlin. _Network Flows_. Upper Saddle River, NJ: Prentice Hall, 1993. ISBN: 013617549X.
 
